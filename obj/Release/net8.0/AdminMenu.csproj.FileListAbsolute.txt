@@ -1,0 +1,12 @@
+C:\Users\lance\PlayerMenu\net8.0\AdminMenu.deps.json
+C:\Users\lance\PlayerMenu\net8.0\AdminMenu.dll
+C:\Users\lance\PlayerMenu\net8.0\AdminMenu.pdb
+C:\Users\lance\Desktop\PlayerMenu\obj\Release\net8.0\AdminMenu.csproj.AssemblyReference.cache
+C:\Users\lance\Desktop\PlayerMenu\obj\Release\net8.0\AdminMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Desktop\PlayerMenu\obj\Release\net8.0\AdminMenu.AssemblyInfoInputs.cache
+C:\Users\lance\Desktop\PlayerMenu\obj\Release\net8.0\AdminMenu.AssemblyInfo.cs
+C:\Users\lance\Desktop\PlayerMenu\obj\Release\net8.0\AdminMenu.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\PlayerMenu\obj\Release\net8.0\AdminMenu.dll
+C:\Users\lance\Desktop\PlayerMenu\obj\Release\net8.0\refint\AdminMenu.dll
+C:\Users\lance\Desktop\PlayerMenu\obj\Release\net8.0\AdminMenu.pdb
+C:\Users\lance\Desktop\PlayerMenu\obj\Release\net8.0\ref\AdminMenu.dll
