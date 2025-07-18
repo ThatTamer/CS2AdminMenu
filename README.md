@@ -1,5 +1,5 @@
 # CS2AdminMenu
-An easy-to-use, light-weight, and customizable admin menu for any CS2 server.
+An easy-to-use, lightweight, and customizable admin menu for any CS2 server.
 
 Created by ThatTamer using code originally written by NickFox007, licensed under GPLv3.
 
@@ -41,7 +41,7 @@ Step 3: Configure the Plugin
 
 
 
-Step 4: Restart your Server
+Step 4: Restart Your Server
 
 * Restart your CS2 server to ensure the plugin works.
 
